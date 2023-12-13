@@ -32,7 +32,7 @@ export default function Home() {
                     <div class="links">
                         <p><a href="https://docs.google.com/document/d/1YI8qBbRIEK5B77hL8kSh79IgN8BcwhYc-Ly1b_8CUPQ/edit?usp=sharing">Resume</a></p>
                         <p><a href="https://github.com/julianjmg">Github</a></p>
-                        <p><a href="">Portfolio Website Repo</a></p>
+                        <p><a href="https://github.com/Crystaliias/Portfolio">Portfolio Website Repo</a></p>
                     </div>
                 </div>
             </div>
