@@ -5,9 +5,129 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #4d152b;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* ----------------------------------- top ---------------------------------------- */
+div.top {
+  display: flex;
+  background-color: #cf9db0;
+}
+
+div.logo {
+  flex: 1;
+  align-self: center;
+  background-color: #ffe0ec;
+  color: #240410;
+}
+
+div.logo > h1 {
+  text-align: center;
+}
+
+div.navbar {
+  flex: 5;
+  align-self: center;
+}
+
+div.navbar > p {
+  font-size: 28px;
+  text-align: center;
+}
+
+div.navbar > p > a {
+  text-decoration: none;
+  color: #4d152b;
+  font-weight: bold;
+}
+
+/* ----------------------------------- top ---------------------------------------- */
+
+/* ----------------------------------- main --------------------------------------- */
+
+div.main {
+  background-color: #4d152b;
+  color:#cf9db0;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+h1.sectionTitle {
+  flex: 1;
+}
+div.AaMediaGallery {
+  flex: 3;
+  display: flex;
+}
+
+div.AaMediaGallery > iframe {
+  border: 20px solid #240410;
+  flex:1;
+}
+
+div.sectionDescription {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+div.homeSectionDescription {
+  flex: 1;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: #ffe0ec;
+}
+
+button {
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+div.TmgeMediaGallery {
+  display: flex;
+  align-items: center;
+}
+
+div.TigMediaGallery {
+  display: flex;
+  align-items: center;
+}
+
+div.left {
+  flex: 1;
+}
+
+div.right {
+  flex: 1;
+}
+
+div.mid {
+  flex: 3;
+}
+
+div.homeContainer {
+  display: flex;
+}
+
+div.portrait {
+  flex: 1;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+div.links {
+  background-color: #cf9db0;
 }
