@@ -5,14 +5,13 @@ export const Nav = styled.nav`
     background: #cf9db0;
     height: 85px;
     display: flex;
-    justify-content: space-between;
-    padding: 0.2rem calc((100vw - 1000px) / 2);
-    z-index: 12;
+    justify-content: center;
 `;
  
 export const NavLink = styled(Link)`
     font-size: 28px;
     color: #4d152b;
+    font-weight: bold;
     display: flex;
     align-items: center;
     text-decoration: none;
@@ -28,12 +27,6 @@ export const NavLink = styled(Link)`
 export const NavMenu = styled.div`
     display: flex;
     align-items: center;
-    margin-right: -24px;
-    /* Second Nav */
-    /* margin-right: 24px; */
-    /* Third Nav */
-    /* width: 100vw;
-white-space: nowrap; */
     @media screen and (max-width: 768px) {
         display: none;
     }
