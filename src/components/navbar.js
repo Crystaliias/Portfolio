@@ -1,20 +1,26 @@
 import React from "react";
+import { Nav, NavLink, NavMenu } from "./nav";
  
 const Navbar = () => {
     return (
-        <div class="top">
-            <div class='logo'>
-                <h1>Julian's Portfolio</h1>
-            </div>
-            <div class="navbar">
-                <p>
-                    <a href='/'>Home</a> |
-                    <a href='/TheMagicalGuardianExperience'> The Magical Guardian Experience</a> | 
-                    <a href='/AngelicAnguish'> Angelic Anguish</a> | 
-                    <a href='/TheInsuranceGame'> The Insurance Game</a>
-                </p>
-            </div>
-        </div>
+        <>
+            <Nav>
+                <NavMenu>
+                    <NavLink to="/" activeStyle>
+                        Home
+                    </NavLink>
+                    <NavLink to="/TheMagicalGuardianExperience" activeStyle>
+                        The Magical Guardian Experience
+                    </NavLink>
+                    <NavLink to="/AngelicAnguish" activeStyle>
+                        Angelic Anguish
+                    </NavLink>
+                    <NavLink to="/TheInsuranceGame" activeStyle>
+                        The Insurance Game
+                    </NavLink>
+                </NavMenu>
+            </Nav>
+        </>
     );
 };
  
