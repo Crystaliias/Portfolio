@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.c37dcda0.css",
-    "main.js": "/static/js/main.291c7c16.js",
-    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
-    "static/media/TigErin.png": "/static/media/TigErin.32a89bb48196b70d1c18.png",
-    "static/media/TigConnor.png": "/static/media/TigConnor.b88bf99edf1ddd3cfd30.png",
-    "static/media/TigRavi.png": "/static/media/TigRavi.5580787725220852be48.png",
-    "static/media/TigMainMenu.png": "/static/media/TigMainMenu.a7b579369bd0e5d66f90.png",
-    "static/media/1.png": "/static/media/1.4ec4047f545269424603.png",
-    "static/media/2.png": "/static/media/2.3ea730db8b2cece71d6d.png",
-    "static/media/3.png": "/static/media/3.378d2184d75562f98e5f.png",
-    "static/media/6.png": "/static/media/6.0f4b7c6b40bfcc998338.png",
-    "static/media/4.png": "/static/media/4.db1a772408217c3006e9.png",
-    "static/media/updatedCrystalias.jpg": "/static/media/updatedCrystalias.4e234ce9ba5a867d50b8.jpg",
-    "static/media/5.png": "/static/media/5.8841fd062e6a55122051.png",
-    "static/media/rightArrow.png": "/static/media/rightArrow.5c8388b7f3d1d7a1d406.png",
-    "static/media/leftArrow.png": "/static/media/leftArrow.ac8b537850615475234b.png",
-    "index.html": "/index.html",
-    "main.c37dcda0.css.map": "/static/css/main.c37dcda0.css.map",
-    "main.291c7c16.js.map": "/static/js/main.291c7c16.js.map",
-    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.c37dcda0.css",
+    "main.js": "/Portfolio/static/js/main.0151a24f.js",
+    "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/TigErin.png": "/Portfolio/static/media/TigErin.32a89bb48196b70d1c18.png",
+    "static/media/TigConnor.png": "/Portfolio/static/media/TigConnor.b88bf99edf1ddd3cfd30.png",
+    "static/media/TigRavi.png": "/Portfolio/static/media/TigRavi.5580787725220852be48.png",
+    "static/media/TigMainMenu.png": "/Portfolio/static/media/TigMainMenu.a7b579369bd0e5d66f90.png",
+    "static/media/1.png": "/Portfolio/static/media/1.4ec4047f545269424603.png",
+    "static/media/2.png": "/Portfolio/static/media/2.3ea730db8b2cece71d6d.png",
+    "static/media/3.png": "/Portfolio/static/media/3.378d2184d75562f98e5f.png",
+    "static/media/6.png": "/Portfolio/static/media/6.0f4b7c6b40bfcc998338.png",
+    "static/media/4.png": "/Portfolio/static/media/4.db1a772408217c3006e9.png",
+    "static/media/updatedCrystalias.jpg": "/Portfolio/static/media/updatedCrystalias.4e234ce9ba5a867d50b8.jpg",
+    "static/media/5.png": "/Portfolio/static/media/5.8841fd062e6a55122051.png",
+    "static/media/rightArrow.png": "/Portfolio/static/media/rightArrow.5c8388b7f3d1d7a1d406.png",
+    "static/media/leftArrow.png": "/Portfolio/static/media/leftArrow.ac8b537850615475234b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c37dcda0.css.map": "/Portfolio/static/css/main.c37dcda0.css.map",
+    "main.0151a24f.js.map": "/Portfolio/static/js/main.0151a24f.js.map",
+    "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c37dcda0.css",
-    "static/js/main.291c7c16.js"
+    "static/js/main.0151a24f.js"
   ]
 }
